@@ -1,6 +1,5 @@
 ### Hi there, I'm Md Miraz Hossain - aka [Miraz.Anik][website] 👋
 
-[![Website](https://sites.google.com/site/mirazanik/home)](https://sites.google.com/site/mirazanik/home)
 
 ## I'm an Android Developer!!
 
