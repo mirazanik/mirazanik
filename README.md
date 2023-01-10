@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Build my dream project
+- 🥅 2023 Goals: Build my dream project
 - ⚡ Fun fact: I love to solve any IT problem with programming 😄
 
 
